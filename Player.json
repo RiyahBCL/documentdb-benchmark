@@ -1,5 +1,6 @@
 ﻿{
-    "id": "G02-D06-a067ff",
+  "id": "G02-D06-a067ff",
+  "partitionkey": "001",
     "playerId": "a067ff",
     "hashedId": "bb0091",
     "countryCode": "hk",
